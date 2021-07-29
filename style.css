@@ -38,3 +38,7 @@ body{
 .far{
     color: #E76F51;
 }
+.icon a:hover .fas{
+    color:#264653 ;
+   
+}
